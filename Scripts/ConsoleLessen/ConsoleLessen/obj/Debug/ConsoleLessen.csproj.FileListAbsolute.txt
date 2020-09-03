@@ -1,0 +1,20 @@
+c:\users\215272\documents\visual studio 2015\Projects\ConsoleLessen\ConsoleLessen\bin\Debug\ConsoleLessen.exe.config
+c:\users\215272\documents\visual studio 2015\Projects\ConsoleLessen\ConsoleLessen\bin\Debug\ConsoleLessen.exe
+c:\users\215272\documents\visual studio 2015\Projects\ConsoleLessen\ConsoleLessen\bin\Debug\ConsoleLessen.pdb
+c:\users\215272\documents\visual studio 2015\Projects\ConsoleLessen\ConsoleLessen\obj\Debug\ConsoleLessen.csprojResolveAssemblyReference.cache
+c:\users\215272\documents\visual studio 2015\Projects\ConsoleLessen\ConsoleLessen\obj\Debug\ConsoleLessen.exe
+c:\users\215272\documents\visual studio 2015\Projects\ConsoleLessen\ConsoleLessen\obj\Debug\ConsoleLessen.pdb
+O:\ConsoleLessen\ConsoleLessen\bin\Debug\ConsoleLessen.exe.config
+O:\ConsoleLessen\ConsoleLessen\bin\Debug\ConsoleLessen.exe
+O:\ConsoleLessen\ConsoleLessen\bin\Debug\ConsoleLessen.pdb
+O:\ConsoleLessen\ConsoleLessen\obj\Debug\ConsoleLessen.csprojAssemblyReference.cache
+O:\ConsoleLessen\ConsoleLessen\obj\Debug\ConsoleLessen.csproj.CoreCompileInputs.cache
+O:\ConsoleLessen\ConsoleLessen\obj\Debug\ConsoleLessen.exe
+O:\ConsoleLessen\ConsoleLessen\obj\Debug\ConsoleLessen.pdb
+D:\cSharpConsole\ConsoleLessen\ConsoleLessen\bin\Debug\ConsoleLessen.exe.config
+D:\cSharpConsole\ConsoleLessen\ConsoleLessen\bin\Debug\ConsoleLessen.exe
+D:\cSharpConsole\ConsoleLessen\ConsoleLessen\bin\Debug\ConsoleLessen.pdb
+D:\cSharpConsole\ConsoleLessen\ConsoleLessen\obj\Debug\ConsoleLessen.csprojAssemblyReference.cache
+D:\cSharpConsole\ConsoleLessen\ConsoleLessen\obj\Debug\ConsoleLessen.csproj.CoreCompileInputs.cache
+D:\cSharpConsole\ConsoleLessen\ConsoleLessen\obj\Debug\ConsoleLessen.exe
+D:\cSharpConsole\ConsoleLessen\ConsoleLessen\obj\Debug\ConsoleLessen.pdb

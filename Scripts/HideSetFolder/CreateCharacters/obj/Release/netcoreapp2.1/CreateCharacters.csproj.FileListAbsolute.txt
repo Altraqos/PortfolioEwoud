@@ -1,0 +1,11 @@
+D:\cSharpConsole\CharacterCreation\CreateCharacters\CreateCharacters\bin\Release\netcoreapp2.1\CreateCharacters.deps.json
+D:\cSharpConsole\CharacterCreation\CreateCharacters\CreateCharacters\bin\Release\netcoreapp2.1\CreateCharacters.runtimeconfig.json
+D:\cSharpConsole\CharacterCreation\CreateCharacters\CreateCharacters\bin\Release\netcoreapp2.1\CreateCharacters.runtimeconfig.dev.json
+D:\cSharpConsole\CharacterCreation\CreateCharacters\CreateCharacters\bin\Release\netcoreapp2.1\CreateCharacters.dll
+D:\cSharpConsole\CharacterCreation\CreateCharacters\CreateCharacters\bin\Release\netcoreapp2.1\CreateCharacters.pdb
+D:\cSharpConsole\CharacterCreation\CreateCharacters\CreateCharacters\obj\Release\netcoreapp2.1\CreateCharacters.csprojAssemblyReference.cache
+D:\cSharpConsole\CharacterCreation\CreateCharacters\CreateCharacters\obj\Release\netcoreapp2.1\CreateCharacters.csproj.CoreCompileInputs.cache
+D:\cSharpConsole\CharacterCreation\CreateCharacters\CreateCharacters\obj\Release\netcoreapp2.1\CreateCharacters.AssemblyInfoInputs.cache
+D:\cSharpConsole\CharacterCreation\CreateCharacters\CreateCharacters\obj\Release\netcoreapp2.1\CreateCharacters.AssemblyInfo.cs
+D:\cSharpConsole\CharacterCreation\CreateCharacters\CreateCharacters\obj\Release\netcoreapp2.1\CreateCharacters.dll
+D:\cSharpConsole\CharacterCreation\CreateCharacters\CreateCharacters\obj\Release\netcoreapp2.1\CreateCharacters.pdb

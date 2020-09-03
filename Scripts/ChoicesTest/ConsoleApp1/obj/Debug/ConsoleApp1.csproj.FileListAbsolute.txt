@@ -1,0 +1,13 @@
+C:\Users\Placeholder\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Placeholder\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Placeholder\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Placeholder\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Placeholder\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Placeholder\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Placeholder\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+K:\UnityStuff\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+K:\UnityStuff\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+K:\UnityStuff\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+K:\UnityStuff\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+K:\UnityStuff\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+K:\UnityStuff\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

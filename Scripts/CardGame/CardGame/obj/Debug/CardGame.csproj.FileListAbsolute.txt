@@ -1,0 +1,13 @@
+C:\Users\wermi\source\repos\CardGame\CardGame\bin\Debug\CardGame.exe.config
+C:\Users\wermi\source\repos\CardGame\CardGame\bin\Debug\CardGame.exe
+C:\Users\wermi\source\repos\CardGame\CardGame\bin\Debug\CardGame.pdb
+C:\Users\wermi\source\repos\CardGame\CardGame\obj\Debug\CardGame.csprojAssemblyReference.cache
+C:\Users\wermi\source\repos\CardGame\CardGame\obj\Debug\CardGame.csproj.CoreCompileInputs.cache
+C:\Users\wermi\source\repos\CardGame\CardGame\obj\Debug\CardGame.exe
+C:\Users\wermi\source\repos\CardGame\CardGame\obj\Debug\CardGame.pdb
+K:\UnityStuff\CardGame\CardGame\bin\Debug\CardGame.exe.config
+K:\UnityStuff\CardGame\CardGame\bin\Debug\CardGame.exe
+K:\UnityStuff\CardGame\CardGame\bin\Debug\CardGame.pdb
+K:\UnityStuff\CardGame\CardGame\obj\Debug\CardGame.csprojAssemblyReference.cache
+K:\UnityStuff\CardGame\CardGame\obj\Debug\CardGame.exe
+K:\UnityStuff\CardGame\CardGame\obj\Debug\CardGame.pdb
