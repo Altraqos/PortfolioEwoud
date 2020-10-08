@@ -1,0 +1,173 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ByteBuffer.Fakes</name>
+    </assembly>
+    <members>
+        <member name="T:Global.Fakes.ShimByteBuffer">
+            <summary>Shim type of ByteBuffer</summary>
+        </member>
+        <member name="M:Global.Fakes.ShimByteBuffer.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:Global.Fakes.ShimByteBuffer.#ctor(ByteBuffer)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="T:Global.Fakes.ShimByteBuffer.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:Global.Fakes.ShimByteBuffer.AllInstances.Clear">
+            <summary>Sets the shim of ByteBuffer.Clear()</summary>
+        </member>
+        <member name="P:Global.Fakes.ShimByteBuffer.AllInstances.Count">
+            <summary>Sets the shim of ByteBuffer.Count()</summary>
+        </member>
+        <member name="P:Global.Fakes.ShimByteBuffer.AllInstances.Dispose">
+            <summary>Sets the shim of ByteBuffer.Dispose()</summary>
+        </member>
+        <member name="P:Global.Fakes.ShimByteBuffer.AllInstances.DisposeBoolean">
+            <summary>Sets the shim of ByteBuffer.Dispose(Boolean disposing)</summary>
+        </member>
+        <member name="P:Global.Fakes.ShimByteBuffer.AllInstances.GetReadPos">
+            <summary>Sets the shim of ByteBuffer.GetReadPos()</summary>
+        </member>
+        <member name="P:Global.Fakes.ShimByteBuffer.AllInstances.Length">
+            <summary>Sets the shim of ByteBuffer.Length()</summary>
+        </member>
+        <member name="P:Global.Fakes.ShimByteBuffer.AllInstances.ReadBytesInt32Boolean">
+            <summary>Sets the shim of ByteBuffer.ReadBytes(Int32 Length, Boolean Peek)</summary>
+        </member>
+        <member name="P:Global.Fakes.ShimByteBuffer.AllInstances.ReadFloatBoolean">
+            <summary>Sets the shim of ByteBuffer.ReadFloat(Boolean Peek)</summary>
+        </member>
+        <member name="P:Global.Fakes.ShimByteBuffer.AllInstances.ReadIntergerBoolean">
+            <summary>Sets the shim of ByteBuffer.ReadInterger(Boolean Peek)</summary>
+        </member>
+        <member name="P:Global.Fakes.ShimByteBuffer.AllInstances.ReadLongBoolean">
+            <summary>Sets the shim of ByteBuffer.ReadLong(Boolean Peek)</summary>
+        </member>
+        <member name="P:Global.Fakes.ShimByteBuffer.AllInstances.ReadShortBoolean">
+            <summary>Sets the shim of ByteBuffer.ReadShort(Boolean Peek)</summary>
+        </member>
+        <member name="P:Global.Fakes.ShimByteBuffer.AllInstances.ReadStringBoolean">
+            <summary>Sets the shim of ByteBuffer.ReadString(Boolean Peek)</summary>
+        </member>
+        <member name="P:Global.Fakes.ShimByteBuffer.AllInstances.TooArray">
+            <summary>Sets the shim of ByteBuffer.TooArray()</summary>
+        </member>
+        <member name="P:Global.Fakes.ShimByteBuffer.AllInstances.WriteBytesByteArray">
+            <summary>Sets the shim of ByteBuffer.WriteBytes(Byte[] Input)</summary>
+        </member>
+        <member name="P:Global.Fakes.ShimByteBuffer.AllInstances.WriteFloatSingle">
+            <summary>Sets the shim of ByteBuffer.WriteFloat(Single Input)</summary>
+        </member>
+        <member name="P:Global.Fakes.ShimByteBuffer.AllInstances.WriteIntegerInt32">
+            <summary>Sets the shim of ByteBuffer.WriteInteger(Int32 Input)</summary>
+        </member>
+        <member name="P:Global.Fakes.ShimByteBuffer.AllInstances.WriteLongInt64">
+            <summary>Sets the shim of ByteBuffer.WriteLong(Int64 Input)</summary>
+        </member>
+        <member name="P:Global.Fakes.ShimByteBuffer.AllInstances.WriteShortInt16">
+            <summary>Sets the shim of ByteBuffer.WriteShort(Int16 Input)</summary>
+        </member>
+        <member name="P:Global.Fakes.ShimByteBuffer.AllInstances.WriteStringString">
+            <summary>Sets the shim of ByteBuffer.WriteString(String Input)</summary>
+        </member>
+        <member name="M:Global.Fakes.ShimByteBuffer.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:Global.Fakes.ShimByteBuffer.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Global.Fakes.ShimByteBuffer.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:Global.Fakes.ShimByteBuffer.Bind(System.IDisposable)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="P:Global.Fakes.ShimByteBuffer.Clear">
+            <summary>Sets the shim of ByteBuffer.Clear()</summary>
+        </member>
+        <member name="P:Global.Fakes.ShimByteBuffer.Constructor">
+            <summary>Sets the shim of ByteBuffer.ByteBuffer()</summary>
+        </member>
+        <member name="P:Global.Fakes.ShimByteBuffer.Count">
+            <summary>Sets the shim of ByteBuffer.Count()</summary>
+        </member>
+        <member name="P:Global.Fakes.ShimByteBuffer.Dispose">
+            <summary>Sets the shim of ByteBuffer.Dispose()</summary>
+        </member>
+        <member name="P:Global.Fakes.ShimByteBuffer.DisposeBoolean">
+            <summary>Sets the shim of ByteBuffer.Dispose(Boolean disposing)</summary>
+        </member>
+        <member name="P:Global.Fakes.ShimByteBuffer.GetReadPos">
+            <summary>Sets the shim of ByteBuffer.GetReadPos()</summary>
+        </member>
+        <member name="P:Global.Fakes.ShimByteBuffer.Length">
+            <summary>Sets the shim of ByteBuffer.Length()</summary>
+        </member>
+        <member name="P:Global.Fakes.ShimByteBuffer.ReadBytesInt32Boolean">
+            <summary>Sets the shim of ByteBuffer.ReadBytes(Int32 Length, Boolean Peek)</summary>
+        </member>
+        <member name="P:Global.Fakes.ShimByteBuffer.ReadFloatBoolean">
+            <summary>Sets the shim of ByteBuffer.ReadFloat(Boolean Peek)</summary>
+        </member>
+        <member name="P:Global.Fakes.ShimByteBuffer.ReadIntergerBoolean">
+            <summary>Sets the shim of ByteBuffer.ReadInterger(Boolean Peek)</summary>
+        </member>
+        <member name="P:Global.Fakes.ShimByteBuffer.ReadLongBoolean">
+            <summary>Sets the shim of ByteBuffer.ReadLong(Boolean Peek)</summary>
+        </member>
+        <member name="P:Global.Fakes.ShimByteBuffer.ReadShortBoolean">
+            <summary>Sets the shim of ByteBuffer.ReadShort(Boolean Peek)</summary>
+        </member>
+        <member name="P:Global.Fakes.ShimByteBuffer.ReadStringBoolean">
+            <summary>Sets the shim of ByteBuffer.ReadString(Boolean Peek)</summary>
+        </member>
+        <member name="P:Global.Fakes.ShimByteBuffer.TooArray">
+            <summary>Sets the shim of ByteBuffer.TooArray()</summary>
+        </member>
+        <member name="P:Global.Fakes.ShimByteBuffer.WriteBytesByteArray">
+            <summary>Sets the shim of ByteBuffer.WriteBytes(Byte[] Input)</summary>
+        </member>
+        <member name="P:Global.Fakes.ShimByteBuffer.WriteFloatSingle">
+            <summary>Sets the shim of ByteBuffer.WriteFloat(Single Input)</summary>
+        </member>
+        <member name="P:Global.Fakes.ShimByteBuffer.WriteIntegerInt32">
+            <summary>Sets the shim of ByteBuffer.WriteInteger(Int32 Input)</summary>
+        </member>
+        <member name="P:Global.Fakes.ShimByteBuffer.WriteLongInt64">
+            <summary>Sets the shim of ByteBuffer.WriteLong(Int64 Input)</summary>
+        </member>
+        <member name="P:Global.Fakes.ShimByteBuffer.WriteShortInt16">
+            <summary>Sets the shim of ByteBuffer.WriteShort(Int16 Input)</summary>
+        </member>
+        <member name="P:Global.Fakes.ShimByteBuffer.WriteStringString">
+            <summary>Sets the shim of ByteBuffer.WriteString(String Input)</summary>
+        </member>
+        <member name="T:Global.Fakes.StubByteBuffer">
+            <summary>Stub type of ByteBuffer</summary>
+        </member>
+        <member name="M:Global.Fakes.StubByteBuffer.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="P:Global.Fakes.StubByteBuffer.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="M:Global.Fakes.StubByteBuffer.Dispose(System.Boolean)">
+            <summary>Sets the stub of ByteBuffer.Dispose(Boolean disposing)</summary>
+        </member>
+        <member name="F:Global.Fakes.StubByteBuffer.DisposeBoolean">
+            <summary>Sets the stub of ByteBuffer.Dispose(Boolean disposing)</summary>
+        </member>
+        <member name="M:Global.Fakes.StubByteBuffer.InitializeStub">
+            <summary>Initializes a new instance of type StubByteBuffer</summary>
+        </member>
+        <member name="P:Global.Fakes.StubByteBuffer.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:Global.Fakes.StubByteBuffer.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+    </members>
+</doc>

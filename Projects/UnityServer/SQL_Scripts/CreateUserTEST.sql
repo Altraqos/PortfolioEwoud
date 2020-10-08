@@ -1,0 +1,14 @@
+CREATE TABLE `usernames` (
+	`user_ID` INT(10) UNSIGNED NOT NULL AUTO_INCREMENT,
+	`Username` VARCHAR(50) NOT NULL,
+	`Pass` VARCHAR(64) NOT NULL,
+	`email` VARCHAR(50) NOT NULL,
+	`date_added` DATETIME NOT NULL,
+	`date_lastPlayed` DATETIME NOT NULL,
+	`GM_Level` INT(10) UNSIGNED NOT NULL DEFAULT '1',
+	PRIMARY KEY (`user_ID`)
+)
+COLLATE='utf8_general_ci'
+ENGINE=InnoDB
+AUTO_INCREMENT=2
+;

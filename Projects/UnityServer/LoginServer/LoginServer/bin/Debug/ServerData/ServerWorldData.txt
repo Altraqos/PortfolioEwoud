@@ -1,0 +1,78 @@
+***ServerWorldDataFile***
+
+***Exp Rate Which Players Level By.***
+***Default Exp Rate = 1.***
+#1
+
+***Guild Bonus Exp Rate Which Players Can Get.***
+***Default Guild Bonus Exp Rate = 2.***
+#2
+
+***Bonus Exp Rate Which Players Can Get.***
+***Default Bonus Exp Rate = 1.***
+#1
+
+***Max Level Players Can Reach.***
+***Default Max Player Level = 100.***
+#100
+
+***Max Players That Can Be Online At Once.***
+***Default Max Players Online = 25000.***
+#25000
+
+***Minumum Amount A Player Name Can Be.***
+***Default Minimum Player Name = 1.***
+#1
+
+***Max Amount A Player Name Can Be.***
+***Default Max Player Name = 12.***
+#12
+
+***Max Amount Of Money Players Can Reach.***
+***Default Max Player Money Cap = 125000.***
+#9999
+
+***Max Amount Of Players Per Group.***
+***Default Max Players Per Group = 5.***
+#30
+
+***Max Amount Of Players Per User.***
+***Default Max Players Per User = 20.***
+#20
+
+***Max Amount Of Heroic Players Per User.***
+***Default Max Heroic Players Per User = 2.***
+#2
+
+***Minumum Amount Of Players To Create Guild.***
+***Default Minumum Players To Create Guild = 5.***
+#5
+
+***Server Name.***
+***Default Server Name = Server Name.***
+#Server
+
+***Server MotD.***
+***Default Server Message Of The Day = Server Message Of The Day.***
+#This is the server messsage of the day
+
+***Login Text.***
+***Default Login Text = Login Text.***
+#This is a message you will see when you login on the server
+
+***Server Ip.***
+***Default Server Ip Adress = '127.0.0.1'.***
+#127.0.0.1
+
+***Login Server Port.***
+***Default Login Server Port = '3085'.***
+#3085
+
+***World Server Port.***
+***Default World Server Port = '3050'.***
+#3050
+
+***Login TCP Server Port.***
+***Default Login TCP Server Port = '3045'.***
+#3045
+

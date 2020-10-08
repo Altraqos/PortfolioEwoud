@@ -1,0 +1,14 @@
+M:\U MMo\MySQL_Server\SQLDataAccess\FormUI\bin\Debug\FormUI.exe.config
+M:\U MMo\MySQL_Server\SQLDataAccess\FormUI\bin\Debug\FormUI.exe
+M:\U MMo\MySQL_Server\SQLDataAccess\FormUI\bin\Debug\FormUI.pdb
+M:\U MMo\MySQL_Server\SQLDataAccess\FormUI\bin\Debug\MySql.Data.dll
+M:\U MMo\MySQL_Server\SQLDataAccess\FormUI\bin\Debug\Google.Protobuf.dll
+M:\U MMo\MySQL_Server\SQLDataAccess\FormUI\bin\Debug\MySql.Data.xml
+M:\U MMo\MySQL_Server\SQLDataAccess\FormUI\obj\Debug\FormUI.csprojAssemblyReference.cache
+M:\U MMo\MySQL_Server\SQLDataAccess\FormUI\obj\Debug\FormUI.DashBoard.resources
+M:\U MMo\MySQL_Server\SQLDataAccess\FormUI\obj\Debug\FormUI.Properties.Resources.resources
+M:\U MMo\MySQL_Server\SQLDataAccess\FormUI\obj\Debug\FormUI.csproj.GenerateResource.cache
+M:\U MMo\MySQL_Server\SQLDataAccess\FormUI\obj\Debug\FormUI.csproj.CoreCompileInputs.cache
+M:\U MMo\MySQL_Server\SQLDataAccess\FormUI\obj\Debug\FormUI.csproj.CopyComplete
+M:\U MMo\MySQL_Server\SQLDataAccess\FormUI\obj\Debug\FormUI.exe
+M:\U MMo\MySQL_Server\SQLDataAccess\FormUI\obj\Debug\FormUI.pdb

@@ -1,0 +1,8 @@
+***ServerDataFile***
+
+test
+2
+lith
+Knights of the Undead
+0
+February 07, 22:50

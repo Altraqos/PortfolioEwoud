@@ -1,0 +1,7 @@
+C:\Users\GD2018\Source\Repos\GameMasterConsole\GameMasterConsole\bin\Debug\GameMasterConsole.exe.config
+C:\Users\GD2018\Source\Repos\GameMasterConsole\GameMasterConsole\bin\Debug\GameMasterConsole.exe
+C:\Users\GD2018\Source\Repos\GameMasterConsole\GameMasterConsole\bin\Debug\GameMasterConsole.pdb
+C:\Users\GD2018\Source\Repos\GameMasterConsole\GameMasterConsole\obj\Debug\GameMasterConsole.csprojAssemblyReference.cache
+C:\Users\GD2018\Source\Repos\GameMasterConsole\GameMasterConsole\obj\Debug\GameMasterConsole.csproj.CoreCompileInputs.cache
+C:\Users\GD2018\Source\Repos\GameMasterConsole\GameMasterConsole\obj\Debug\GameMasterConsole.exe
+C:\Users\GD2018\Source\Repos\GameMasterConsole\GameMasterConsole\obj\Debug\GameMasterConsole.pdb

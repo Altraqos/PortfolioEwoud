@@ -1,0 +1,7 @@
+H:\ClientTest\ClientTest\obj\Debug\ClientTest.csprojAssemblyReference.cache
+H:\ClientTest\ClientTest\obj\Debug\ClientTest.csproj.CoreCompileInputs.cache
+H:\ClientTest\ClientTest\bin\Debug\ClientTest.exe.config
+H:\ClientTest\ClientTest\bin\Debug\ClientTest.exe
+H:\ClientTest\ClientTest\bin\Debug\ClientTest.pdb
+H:\ClientTest\ClientTest\obj\Debug\ClientTest.exe
+H:\ClientTest\ClientTest\obj\Debug\ClientTest.pdb
